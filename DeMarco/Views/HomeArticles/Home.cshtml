@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DeMarco.Models.HomeArticle>
+
+@{
+    ViewData["Title"] = "Pizzerie DeMarco";
+}
+
+<!-- Page Content-->
+<div class="container px-4 px-lg-5">
+    <!-- Heading Row-->
+    <div class="row gx-4 gx-lg-5 align-items-center my-5">
+            <div class="row gx-5 align-items-center justify-content-center">
+                <div class="col-lg-8 col-xl-7 col-xxl-6">
+                    <div class="my-5 text-center text-xl-start">
+                        <h2 class="fw-bolder text-white mb-2">Vítejte u nás!</h2>
+                    <h1 class="display-5 fw-bolder text-white mb-2">PIZZERIE <span>De MARCO</span></h1>
+                        <p class="lead fw-normal text-white-50 mb-4">
+                            Vám nabízí širokou nabídku pizzy, jídel, těstovin a nápojů.
+                        </p>
+                        <p class="lead fw-normal text-white-50 mb-4">
+                            Výroba těsta je dělána pomocí naší tradiční tajné receptůry, která těstu dává typické italské charizma.
+                            <span><strong>Ochutnáte naši pizzu a budete se k nám neustále vracet!</strong></span>
+                        </p>
+                        <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
+                            <a class="btn btn-danger btn-lg px-4 me-sm-3" href="tel:+420774610817"><i class='bx bxs-phone-call'></i>774 610 817</a>
+                            <a class="btn btn-danger btn-lg px-4 me-sm-3" asp-area="" asp-controller="Pizzas" asp-action="Pizza">Jídelníček</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-xxl-6  text-center">
+                    <img class="img-fluid rounded-3 my-5" src="~/images/delivery-girl.png" alt="..." />
+                </div>
+            </div>
+         <!-- Call to Action-->
+         <div class="my-5 py-4 text-center">
+            <div class="card-body"><img src="~/images/action.png" class="img-fluid rounded mb-4 mb-lg-0" alt="action" /></div>
+         </div>
+    </div>
+    @if (Model != null)
+    {
+        @foreach (var item in Model)
+        {
+            <div class="list-group-item border-0">
+                <h2>@item.Title</h2>
+                <p>@Html.Raw(item.Content)</p>
+            </div>
+        }
+    }
+</div>

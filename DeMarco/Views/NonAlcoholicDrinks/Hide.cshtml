@@ -1,0 +1,19 @@
+﻿@model DeMarco.Models.NonAlcoholicDrink
+@{
+    ViewData["Title"] = "Skrytí";
+    Layout = "_AdminLayout";
+}
+
+@if (Model != null)
+{
+    <p>Opravdu chcete schovat produkt <b>@Model.Title</b>?</p>
+
+    <form class="py-1" asp-action="Hide" asp-route-id="@Model.Id">
+        <button class="clanky-tlacitko" type="submit">Schovat</button>
+        <a class="clanky-tlacitko" asp-action="Index">Zpět</a>
+    </form>
+}
+else
+{
+    <p>Chyba: Model je null.</p>
+}

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<DeMarco.Models.AlcoholicDrink>
+
+@{
+    ViewData["Title"] = "Pizzerie DeMarco";
+}
+
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<!-- MENU design -->
+<div class="container-fluid" style="padding-top: 40px;">
+    <div class="text-center">
+        <nav class="nav nav-pills nav-fill navbar-light">
+            <a class="nav-link active" asp-area="" asp-controller="Pizzas" asp-action="Pizza">Pizza</a>
+            <a class="nav-link active" asp-area="" asp-controller="Pastas" asp-action="Pasta">Těstoviny</a>
+            <a class="nav-link active" asp-area="" asp-controller="Foods" asp-action="Food">Minutky</a>
+            <a class="nav-link active" asp-area="" asp-controller="Fries" asp-action="Fries">Přílohy</a>
+            <a class="nav-link active" asp-area="" asp-controller="Addons" asp-action="Addon">Přídavky</a>
+            <div class="nav-item dropdown active">
+                <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nápoje</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" asp-area="" asp-controller="AlcoholicDrinks" asp-action="AlcoholicDrink">Alkoholické</a>
+                    <a class="dropdown-item" asp-area="" asp-controller="NonAlcoholicDrinks" asp-action="NonAlcoholicDrink">Nealkoholické</a>
+                </div>
+            </div>
+        </nav>
+        <br />
+        <!----------------->
+        <!-- PIZZA design -->
+        <div style="padding-top: 20px;">
+            <h1 class="text-center">Alkoholické nápoje</h1>
+            @if (Model != null)
+            {
+                <div class="row">
+                    @foreach (var item in Model)
+                    {
+                        @if (!item.IsHidden)
+                        {
+                            <div class="col-sm-6">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h1 class="card-title">@item.NumberItem</h1>
+                                        <button type="button" data-bs-toggle="modal" data-bs-target="#dialog-@item.Id">
+                                            <img class="card-img-top" src="~/images/@item.ImagePath" alt="Product Image">
+                                        </button>
+                                        <h2 class="card-title">@item.Title</h2>
+                                        <h3 class="card-title">@item.Weight</h3>
+                                        <h6 class="card-subtitle mb-2 text-muted">@item.Description</h6>
+                                        <h2 class="card-title">@item.Price</h2>
+                                        @* <a href="#" class="btn btn-primary">Do košíku</a> *@
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="dialog-@item.Id" tabindex="-1" aria-labelledby="dialog-label-@item.Id" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zavřít"></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="~/images/@item.ImagePath" alt="Product Image" class="modal-img">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+﻿@model DeMarco.Models.Fries
+@{
+    ViewData["Title"] = "Odkrytí";
+    Layout = "_AdminLayout";
+}
+
+@if (Model != null)
+{
+    <p>Opravdu chcete odkrýt produkt <b>@Model.Title</b>?</p>
+
+    <form class="py-1" asp-action="Unhide" asp-route-id="@Model.Id">
+        <button class="clanky-tlacitko" type="submit">Odkrýt</button>
+        <a class="clanky-tlacitko" asp-action="Index">Zpět</a>
+    </form>
+}
+else
+{
+    <p>Chyba: Model je null.</p>
+}

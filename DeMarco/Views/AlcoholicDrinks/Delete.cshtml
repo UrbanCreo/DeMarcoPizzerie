@@ -1,0 +1,12 @@
+﻿@model DeMarco.Models.AlcoholicDrink
+
+@{
+    ViewData["Title"] = "Odstranit";
+}
+<div style="padding-top: 140px;">
+    <p>Opravdu chcete vymazat produkt <b>@Model.Title</b>?</p>
+</div>
+<form class="py-1" asp-action="Delete" asp-route-id="@Model.Id">
+    <button class="clanky-tlacitko" type="submit">Odstranit</button>
+    <a class="clanky-tlacitko" asp-action="Index">Zpět</a>
+</form>

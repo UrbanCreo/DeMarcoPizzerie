@@ -1,0 +1,25 @@
+﻿@model IEnumerable<DeMarco.Models.Article>
+
+@{
+    ViewData["Title"] = "Pizzerie DeMarco";
+}
+
+<div class="container-fluid" style="padding-top: 70px;">
+    <div class="text-center">
+        <div class="my-5 py-4 text-center">
+            <div class="card-body"><img src="~/images/app2.png" class="img-fluid rounded mb-4 mb-lg-0" alt="action" /></div>
+        </div>
+    </div>
+</div>
+
+<!-- Content Row-->
+@if (Model != null)
+{
+    @foreach (var item in Model)
+    {
+        <div class="list-group-item border-0" style="padding-bottom: 70px;">
+            <h2>@item.Title</h2>
+            <p>@Html.Raw(item.Content)</p>
+        </div>
+    }
+}

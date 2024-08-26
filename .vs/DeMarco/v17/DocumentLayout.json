@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\pizzas\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\pizzas\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\pastas\\pasta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\pastas\\pasta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\alcoholicdrinks\\alcoholicdrink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\alcoholicdrinks\\alcoholicdrink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\foods\\food.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\foods\\food.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\fries\\fries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\fries\\fries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|c:\\users\\turba\\desktop\\demarco\\demarco\\demarco\\views\\nonalcoholicdrinks\\nonalcoholicdrink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B16EC-9C6D-4A4E-8149-BF0199BF3F17}|DeMarco\\DeMarco.csproj|solutionrelative:demarco\\views\\nonalcoholicdrinks\\nonalcoholicdrink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DeMarco\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DeMarco\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAF0OAAAAAAAAAAAAAHMOAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T10:27:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlcoholicDrink.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\AlcoholicDrinks\\AlcoholicDrink.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\AlcoholicDrinks\\AlcoholicDrink.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\AlcoholicDrinks\\AlcoholicDrink.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\AlcoholicDrinks\\AlcoholicDrink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:08:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Foods\\Food.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\Foods\\Food.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Foods\\Food.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\Foods\\Food.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:08:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fries.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Fries\\Fries.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\Fries\\Fries.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Fries\\Fries.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\Fries\\Fries.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:07:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NonAlcoholicDrink.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\NonAlcoholicDrinks\\NonAlcoholicDrink.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\NonAlcoholicDrinks\\NonAlcoholicDrink.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\NonAlcoholicDrinks\\NonAlcoholicDrink.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\NonAlcoholicDrinks\\NonAlcoholicDrink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:07:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pasta.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Pastas\\Pasta.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\Pastas\\Pasta.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Pastas\\Pasta.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\Pastas\\Pasta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:07:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Pizzas\\Pizza.cshtml",
+              "RelativeDocumentMoniker": "DeMarco\\Views\\Pizzas\\Pizza.cshtml",
+              "ToolTip": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\Views\\Pizzas\\Pizza.cshtml",
+              "RelativeToolTip": "DeMarco\\Views\\Pizzas\\Pizza.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:36:48.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

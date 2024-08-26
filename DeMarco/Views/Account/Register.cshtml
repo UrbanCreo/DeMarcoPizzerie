@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Registrace";
+    Layout = "_AdminLayout";
+}
+
+@if (User.IsInRole(UserRoles.Admin))
+{
+    <div class="row">
+        <div class="col-4">
+            <form class="d-flex flex-column gap-2" asp-route-returnUrl="@ViewData["ReturnUrl"]">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Email" class="form-label">Email</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="form-label">Heslo</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="ConfirmPassword" class="form-label">Potvrdit heslo znovu</label>
+                    <input asp-for="ConfirmPassword" class="form-control" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="clanky-tlacitko">Registrovat</button>
+                </div>
+                <div>
+                    <a asp-area="" asp-controller="Home" asp-action="Admin">Zpět</a>
+                </div>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger" role="alert">
+        Nemáte oprávněný přístup!
+    </div>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

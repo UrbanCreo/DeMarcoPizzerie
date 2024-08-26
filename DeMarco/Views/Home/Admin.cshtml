@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Pizzerie DeMarco";
+    Layout = "_AdminLayout";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+@if (User.IsInRole(UserRoles.Admin))
+{
+    <div class="row">
+        <div class="col-md-4">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="HomeArticles" asp-action="Home">Hlavní stránka DeMarco</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">Správce administrátorů</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="HomeArticles" asp-action="Index">Editor článků</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Pizzas" asp-action="Index">Editor Produktů</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger" role="alert">
+        Nemáte oprávněný přístup!
+    </div>
+}
+
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+}

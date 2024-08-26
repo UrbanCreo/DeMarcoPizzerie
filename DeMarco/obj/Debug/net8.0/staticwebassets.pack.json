@@ -1,0 +1,533 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DeMarco.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DeMarco.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\action.png",
+      "PackagePath": "staticwebassets\\images\\action.png"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\aloe.jpg",
+      "PackagePath": "staticwebassets\\images\\aloe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\americanpotatoes.jpeg",
+      "PackagePath": "staticwebassets\\images\\americanpotatoes.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\app2.png",
+      "PackagePath": "staticwebassets\\images\\app2.png"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\birell1.jpg",
+      "PackagePath": "staticwebassets\\images\\birell1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\birell2.jpg",
+      "PackagePath": "staticwebassets\\images\\birell2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\delivery-girl.png",
+      "PackagePath": "staticwebassets\\images\\delivery-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\demarkoSok.png",
+      "PackagePath": "staticwebassets\\images\\demarkoSok.png"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\energydrink.jpg",
+      "PackagePath": "staticwebassets\\images\\energydrink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\fries.jpeg",
+      "PackagePath": "staticwebassets\\images\\fries.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\ketchup.jpg",
+      "PackagePath": "staticwebassets\\images\\ketchup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\lipton.jpg",
+      "PackagePath": "staticwebassets\\images\\lipton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\logo-demarco.png",
+      "PackagePath": "staticwebassets\\images\\logo-demarco.png"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\mattoni.jpg",
+      "PackagePath": "staticwebassets\\images\\mattoni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\mirinda.jpg",
+      "PackagePath": "staticwebassets\\images\\mirinda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\modryportugal.jpg",
+      "PackagePath": "staticwebassets\\images\\modryportugal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pepsi.jpeg",
+      "PackagePath": "staticwebassets\\images\\pepsi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pepsipet.jpg",
+      "PackagePath": "staticwebassets\\images\\pepsipet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pepsipet2.jpeg",
+      "PackagePath": "staticwebassets\\images\\pepsipet2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_1.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_10.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_11.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_12.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_13.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_14.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_15.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_16.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_17.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_18.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_19.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_2.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_20.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_21.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_22.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_23.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_24.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_25.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_26.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_27.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_28.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_29.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_3.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_30.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_31.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_32.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_33.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_34.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_35.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_36.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_37.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_4.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_5.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_6.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_7.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_8.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\pizza_9.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\potato croquettes.jpg",
+      "PackagePath": "staticwebassets\\images\\potato croquettes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\radegast10.jpg",
+      "PackagePath": "staticwebassets\\images\\radegast10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\radegast12.jpg",
+      "PackagePath": "staticwebassets\\images\\radegast12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\rulandskesede.jpg",
+      "PackagePath": "staticwebassets\\images\\rulandskesede.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\saintcroixbílý.jpg",
+      "PackagePath": "staticwebassets\\images\\saintcroixbílý.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\saintcroixruzovy.jpg",
+      "PackagePath": "staticwebassets\\images\\saintcroixruzovy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\tartarSauce.jpg",
+      "PackagePath": "staticwebassets\\images\\tartarSauce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\templarbily.jpg",
+      "PackagePath": "staticwebassets\\images\\templarbily.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\templarcerveny.jpg",
+      "PackagePath": "staticwebassets\\images\\templarcerveny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\images\\zweigeltreberose.jpg",
+      "PackagePath": "staticwebassets\\images\\zweigeltreberose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\js\\initTinyMCE.js",
+      "PackagePath": "staticwebassets\\js\\initTinyMCE.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\turba\\Desktop\\DeMarco\\DeMarco\\DeMarco\\wwwroot\\pizza-slice.png",
+      "PackagePath": "staticwebassets\\pizza-slice.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DeMarco.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DeMarco.props",
+      "PackagePath": "build\\DeMarco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DeMarco.props",
+      "PackagePath": "buildMultiTargeting\\DeMarco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DeMarco.props",
+      "PackagePath": "buildTransitive\\DeMarco.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

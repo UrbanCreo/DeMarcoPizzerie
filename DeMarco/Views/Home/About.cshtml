@@ -1,0 +1,20 @@
+﻿@model DeMarco.Models.Article
+
+@{
+    ViewData["Title"] = "Pizzerie DeMarco";
+}
+
+<div class="container-fluid" style="padding-top: 140px;">
+    <div class="text-center">
+        <picture>
+            <img src="~/images/app2.png" class="img-fluid img-thumbnail border-0" alt="banner" />
+        </picture>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    @Html.Raw(Model.Content)
+}
+
+<a class="clanky-tlacitko" asp-action="Index">Zpět na seznam</a>
